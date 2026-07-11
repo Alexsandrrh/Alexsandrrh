@@ -1,34 +1,31 @@
 # Aleksandr Sadov
 
-## Senior Frontend Developer
+## Senior Product Engineer
 
-Frontend architecture · Performance · UI infrastructure
+Frontend Systems · Full-stack Products · AI Agents
 
-`React` · `TypeScript` · `Next.js` · `TanStack` · `Tailwind CSS`
+`React` · `TypeScript` · `Node.js` · `Bun` · `LangChain` · `LangGraph`
 
-[Русская версия](./README.ru.md) · [Telegram](https://t.me/alexsandrrh) · [Email](mailto:sascha.sadov@yandex.ru)
+[Русская версия](./README.ru.md) · [Telegram](https://t.me/alexsandrrh) · [Email](mailto:sascha.sadov@yandex.ru) · [Resume on HH.ru — employer account required](https://spb.hh.ru/resume/b732a253ff10cae5d70039ed1f597a70477174)
 
 ## About
 
-I build enterprise web applications and B2B platforms that remain fast, maintainable, and predictable as they grow. Over 6+ years in commercial development, I have focused on frontend architecture, reusable UI foundations, complex integrations, and engineering practices that help teams deliver with confidence.
+I am a product engineer with 6+ years of commercial experience building digital products from interface to integration. My foundation is frontend architecture and TypeScript, with a focus on creating reliable systems that are clear for users and maintainable for engineering teams.
 
-My work combines hands-on development with technical leadership: shaping architecture, reviewing code, selecting tools, interviewing engineers, and improving development workflows.
+I work across product boundaries when a task calls for it—from reusable UI foundations and application architecture to backend services and end-to-end delivery. More recently, I have been building AI agents for different product needs with LangChain and LangGraph on TypeScript, Node.js, and Bun.
 
-## Expertise
+## What I work on
 
-- Designing frontend architecture and applications from the ground up.
-- Building reusable components, typed contracts, and shared UI infrastructure.
-- Improving runtime performance, build pipelines, and codebase maintainability.
-- Leading technical decisions, code reviews, and engineering standards.
+- Frontend systems and scalable application architecture.
+- Full-stack product development from idea to production.
+- Reusable UI foundations, typed contracts, and integrations.
+- Technical decisions, code reviews, and engineering standards.
 
-## Selected impact
+## Current focus
 
-- Accelerated an administrative frontend build by **3–4×**.
-- Reduced defects by **30%** through component architecture refactoring.
-- Cut development build startup time from **90 seconds to 25 seconds**.
-- Built reusable document upload, preview, and enterprise integration modules.
+I am exploring how agentic software can become a practical part of digital products. My current work includes designing and building AI agents with LangChain and LangGraph while connecting them to product interfaces, services, and existing workflows.
 
-## Core technologies
+## Technology stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" />
@@ -37,18 +34,19 @@ My work combines hands-on development with technical leadership: shaping archite
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="32" height="32" alt="Vite" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="32" height="32" alt="Bun" title="Bun" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js" />
 </p>
 
-**Frontend:** React, TypeScript, Next.js, TanStack, Tailwind CSS, Redux, MobX
+**Frontend:** React, TypeScript, Next.js, TanStack, Tailwind CSS
 
-**Quality & tooling:** Vite, Vitest, Jest, ESLint, Prettier
+**Runtime & backend:** Node.js, Bun, NestJS, REST API
 
-**Backend & integration:** Node.js, NestJS, REST API, Prisma ORM, Docker
+**AI agents:** LangChain, LangGraph
 
 ## Contact
 
 - Telegram: [@alexsandrrh](https://t.me/alexsandrrh)
 - Email: [sascha.sadov@yandex.ru](mailto:sascha.sadov@yandex.ru)
+- [Resume on HH.ru — employer account required](https://spb.hh.ru/resume/b732a253ff10cae5d70039ed1f597a70477174)
