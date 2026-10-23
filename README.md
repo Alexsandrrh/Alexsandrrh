@@ -29,6 +29,5 @@
 [![Russian README](https://img.shields.io/badge/README-Русская_версия-111a27?style=for-the-badge)](./README.ru.md)
 [![Telegram](https://img.shields.io/badge/Telegram-@alexsandrrh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexsandrrh)
 [![Email](https://img.shields.io/badge/Email-sascha.sadov@yandex.ru-111a27?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sascha.sadov@yandex.ru)
-[![Resume](https://img.shields.io/badge/Resume-HH.ru-E1011C?style=for-the-badge)](https://spb.hh.ru/resume/b732a253ff10cae5d70039ed1f597a70477174)
 
 </div>
