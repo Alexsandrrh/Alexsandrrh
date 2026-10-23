@@ -15,9 +15,9 @@ KEY, SECTION, GREEN, ACCENT = "#f4a261", "#63d8ff", "#62d98b", "#b48cff"
 
 ROWS = [
     ("host", ""),
-    ("kv", "Role", "Senior Product Engineer"),
-    ("kv", "Experience", "6+ years in product engineering"),
-    ("kv", "Focus", "Frontend systems · AI agents"),
+    ("kv", "Role", "Senior Frontend Developer"),
+    ("kv", "Experience", "Building products since 2018"),
+    ("kv", "Focus", "React · TypeScript · AI agents"),
     ("gap", ""),
     ("section", "Stack"),
     ("kv", "Frontend", "React · TypeScript · Next.js"),

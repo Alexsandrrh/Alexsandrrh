@@ -1,52 +1,20 @@
 # Александр Садов
 
-## Senior Product Engineer
+**Senior Frontend Developer | React & TypeScript | Node.js & NestJS | AI Agents**
 
-Frontend-системы · Full-stack продукты · AI-агенты
+[English version](./README.md) · [LinkedIn](https://www.linkedin.com/in/alexsandrrh/) · [Telegram](https://t.me/alexsandrrh) · [Email](mailto:sascha.sadov@yandex.ru)
 
-`React` · `TypeScript` · `Node.js` · `Bun` · `LangChain` · `LangGraph`
+Я frontend-разработчик, в коммерческой разработке с 2018 года. В основном пишу на React и TypeScript. В небольших командах также разрабатываю backend, интеграции, ботов и ИИ-агентов.
 
-[English version](./README.md) · [Telegram](https://t.me/alexsandrrh) · [Email](mailto:sascha.sadov@yandex.ru) · [Резюме на HH.ru — требуется аккаунт работодателя](https://spb.hh.ru/resume/b732a253ff10cae5d70039ed1f597a70477174)
+Мне нравится подключаться к продукту с начала: обсуждать первую версию, выбирать объём, который можно довести до релиза, и развивать его поэтапно. Работаю и с существующими приложениями: улучшаю архитектуру, инструменты разработки и переиспользуемые компоненты.
 
-## Обо мне
+## Избранные проекты
 
-Я product engineer с более чем 6 годами коммерческого опыта в создании цифровых продуктов — от интерфейсов до интеграций. Моя основа — frontend-архитектура и TypeScript, а главная задача — создавать надёжные системы, понятные пользователям и удобные для развития инженерными командами.
-
-Работаю на разных уровнях продукта в зависимости от задачи: проектирую переиспользуемую UI-инфраструктуру и архитектуру приложений, разрабатываю backend-сервисы и участвую в end-to-end реализации. В последнее время создаю AI-агентов для разных продуктовых задач с помощью LangChain и LangGraph на TypeScript, Node.js и Bun.
-
-## Чем занимаюсь
-
-- Frontend-системами и масштабируемой архитектурой приложений.
-- Full-stack разработкой продуктов от идеи до production.
-- Переиспользуемой UI-инфраструктурой, типизированными контрактами и интеграциями.
-- Техническими решениями, code review и инженерными стандартами.
-
-## Текущий фокус
-
-Исследую, как агентные системы могут становиться практической частью цифровых продуктов. Сейчас проектирую и создаю AI-агентов с помощью LangChain и LangGraph, связывая их с продуктовыми интерфейсами, сервисами и существующими процессами.
+- **[bouncing-dvd-animation](https://github.com/Alexsandrrh/bouncing-dvd-animation)** — компонент анимации на React и TypeScript. Кадры обновляются через `requestAnimationFrame`, логика движения отделена от React и покрыта модульными тестами. Есть приложение с примером и документация.
+- **[form-ui](https://github.com/Alexsandrrh/form-ui)** — TypeScript-контракты и Zod-схемы конфигурации полей форм. Есть правила валидации, тесты и примеры. Это слой схем; готового рендерера форм в пакете нет.
 
 ## Технологии
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="32" height="32" alt="Bun" title="Bun" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js" />
-</p>
-
-**Frontend:** React, TypeScript, Next.js, TanStack, Tailwind CSS
-
-**Runtime и backend:** Node.js, Bun, NestJS, REST API
-
-**AI-агенты:** LangChain, LangGraph
-
-## Контакты
-
-- Telegram: [@alexsandrrh](https://t.me/alexsandrrh)
-- Email: [sascha.sadov@yandex.ru](mailto:sascha.sadov@yandex.ru)
-- [Резюме на HH.ru — требуется аккаунт работодателя](https://spb.hh.ru/resume/b732a253ff10cae5d70039ed1f597a70477174)
+- **Frontend:** React, TypeScript, Vite, TanStack Query, Tailwind CSS, MobX.
+- **Backend:** Node.js, Bun, NestJS, Prisma ORM, REST API, вебхуки.
+- **AI и мессенджеры:** LangChain, LangGraph, Telegram Mini Apps, боты для Telegram и MAX.
